@@ -7,3 +7,10 @@ function SettingsPage() {
 }
 
 export default SettingsPage
+
+export function generateMetadata() {
+  return {
+    title: "Settings",
+    description: "This is Settings page",
+  };
+}

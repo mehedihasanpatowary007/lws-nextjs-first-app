@@ -7,3 +7,9 @@ function AnalyticsPage() {
 }
 
 export default AnalyticsPage
+export function generateMetadata() {
+  return {
+    title: "Analytics",
+    description: "This is Analytics page",
+  };
+}

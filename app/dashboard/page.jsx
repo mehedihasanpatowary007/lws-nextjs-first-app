@@ -9,3 +9,10 @@ function DashboardPage() {
 }
 
 export default DashboardPage;
+
+export function generateMetadata() {
+  return {
+    title: "Dashboard",
+    description: "This is Dashboard page",
+  };
+}

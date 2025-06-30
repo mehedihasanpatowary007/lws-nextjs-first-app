@@ -5,3 +5,9 @@ export default function Home() {
     <div>hi</div>
   );
 }
+export function generateMetadata() {
+  return {
+    title: "Home",
+    description: "This is home page",
+  };
+}
