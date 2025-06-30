@@ -54,6 +54,7 @@ function ProductsPage() {
       image: "https://vibegaming.com.bd/wp-content/uploads/2022/10/web-1.png",
     },
   ];
+  // throw new Error("Error inside the products components.")
   
   return (
     <div>

@@ -18,6 +18,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  // throw new Error("Error Inside The root layout.")
   return (
     <html lang="en">
       <body
