@@ -9,7 +9,7 @@ function Navbar() {
           <CustomLink path={"/"}>Home</CustomLink>
         </li>
         <li>
-          <CustomLink path={"/"}>Home</CustomLink>
+          <CustomLink path={"/products"}>Products</CustomLink>
         </li>
         <li>
           <CustomLink path={"/"}>Home</CustomLink>
